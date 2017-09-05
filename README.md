@@ -17,7 +17,7 @@ If you find our work useful, please cite:
 ```
 - - - -
 
-**Prerequisites**: Fast-RCNN https://github.com/rbgirshick/fast-rcnn  (The region-of-interest pooling layer is used in our implementation)
+**Prerequisites**: Fast-RCNN https://github.com/rbgirshick/fast-rcnn  (The region-of-interest pooling layer is used in our implementation) or Caffe (with the region-of-interest pooling layer added). 
 
 - - - -
 
