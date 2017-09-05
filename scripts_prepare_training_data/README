@@ -1,0 +1,9 @@
+To prepare the training data, it involves 3 steps.
+1. generate boxes for each frame (genPosNegPerFrameALOV.m)
+        - example of output: 06-MotionSmoothness_06-MotionSmoothness_video00019_00000259.jpg.txt
+
+2. form pairs of frames and for each pair of frames form pairs of boxes (prepare4hdf5gen)
+        - example of output: 01-Light_video00032_image_pairs.txt / 01-Light_video00032_box_pairs.txt
+
+
+3. based on the formed pairs, write the data into hdf5 files (genHDF5.m)
