@@ -9,9 +9,6 @@
 
 namespace caffe {
 
-/**
- * @brief Normalizes input.
- */
 template <typename Dtype>
 class NormalizeLayer : public Layer<Dtype> {
  public:
