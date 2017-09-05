@@ -25,7 +25,7 @@ If you find our work useful, please cite:
 
 [**Run the tracker**] After adding the normalization layer into your Fast-RCNN or Caffe, and modifying the path where necessary, you should be able to reproduce our experiments on OTB benchmark with the provided model by running 'run_SINT_OTB.py'. 
 
-[**Training**] The scripts in 'scripts_prepare_training_data' shows how to process ALOV (http://alov300pp.joomlafree.it/dataset-resources.html) to prepare training data to train the Siamese network.
+[**Training data**] The scripts in 'scripts_prepare_training_data' shows how to process ALOV (http://alov300pp.joomlafree.it/dataset-resources.html) to prepare training data to train the Siamese network.
 
 - - - -
 You can find more information, such as the result files on OTB, on the project page https://staff.fnwi.uva.nl/r.tao/projects/SINT/SINT_proj.html
