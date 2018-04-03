@@ -5,7 +5,7 @@ Project page: https://staff.fnwi.uva.nl/r.tao/projects/SINT/SINT_proj.html
 
 <img src="https://staff.fnwi.uva.nl/r.tao/projects/SINT/overview.png">
 
-If you find our work useful, please cite:
+If you find our work useful, please consider citing:
 ```
 @inproceedings{tao2016sint,
   title={Siamese Instance Search for Tracking},
