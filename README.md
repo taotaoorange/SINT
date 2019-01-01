@@ -1,9 +1,9 @@
 # Siamese Instance Search for Tracking
 
-Project page: https://staff.fnwi.uva.nl/r.tao/projects/SINT/SINT_proj.html
+Project page: https://taotaoorange.github.io/projects/SINT/SINT_proj.html
 
 
-<img src="https://staff.fnwi.uva.nl/r.tao/projects/SINT/overview.png">
+<img src="https://taotaoorange.github.io/projects/SINT/overview.png">
 
 If you find our work useful, please consider citing:
 ```
@@ -28,6 +28,6 @@ If you find our work useful, please consider citing:
 [**Training data**] The scripts in 'scripts_prepare_training_data' shows how to process ALOV (http://alov300pp.joomlafree.it/dataset-resources.html) to prepare training data to train the Siamese network.
 
 - - - -
-You can find more information, such as the result files on OTB, on the project page https://staff.fnwi.uva.nl/r.tao/projects/SINT/SINT_proj.html
+You can find more information, such as the result files on OTB, on the project page https://taotaoorange.github.io/projects/SINT/SINT_proj.html
 
 
